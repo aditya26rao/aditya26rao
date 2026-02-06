@@ -1,5 +1,20 @@
-# 💫 About Me:
-# 👋 Hi, I'm Bonthapalli Aditya Rao<br><br>🚀 Full Stack Developer | MERN | Django | AI Integrations  <br>💡 I build scalable web apps and AI-powered SaaS products that solve real-world problems  <br>📍 Hyderabad, India  <br>🎯 Open to Full Stack / Backend Developer roles<br><br><br>## 💫 About Me<br><br>- 🔭 Currently building **AI Resume Builder (MERN + Gemini AI SaaS App)**<br>- 🌱 Learning **Advanced Backend, System Design & Cloud Deployment**<br>- 👯 Looking to collaborate on **Full Stack & AI projects**<br>- 💬 Ask me about **Python, MERN, Django, APIs, Databases**<br>- ⚡ Fun fact: I enjoy turning ideas into real, production-ready apps
+### 👋 Hi, I'm Bonthapalli Aditya Rao
+
+Full Stack Developer | MERN | Django | AI Integrations  
+I build scalable web apps and AI-powered SaaS products that solve real-world problems  
+📍 Hyderabad, India  
+🎯 Open to Full Stack / Backend Developer roles
+
+---
+
+### 💫 About Me
+
+- 🔭 Currently building **AI Resume Builder (MERN + Gemini AI SaaS App)**
+- 🌱 Learning **Advanced Backend, System Design & Cloud Deployment**
+- 👯 Looking to collaborate on **Full Stack & AI projects**
+- 💬 Ask me about **Python, MERN, Django, APIs, Databases**
+- ⚡ Love turning ideas into real, production-ready apps
+
 
 
 ## 🌐 Socials:
