@@ -9,7 +9,7 @@ I build scalable web apps and AI-powered SaaS products that solve real-world pro
 
 ### 💫 About Me
 
-- 🔭 Currently building **AI Resume Builder (MERN + Gemini AI SaaS App)**
+- 🔭 Currently building **JobHub Platform**
 - 🌱 Learning **Advanced Backend, System Design & Cloud Deployment**
 - 👯 Looking to collaborate on **Full Stack & AI projects**
 - 💬 Ask me about **Python, MERN, Django, APIs, Databases**
